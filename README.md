@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Data Science" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 ### 🔭 No que estou trabalhando
 
