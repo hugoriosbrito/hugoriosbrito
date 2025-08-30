@@ -78,11 +78,15 @@
 <div align="center">
 
 <a href="https://github.com/hugoriosbrito">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugoriosbrito&repo=MLModels&theme=react&hide_border=true&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugoriosbrito&repo=Crawler-Noticias-de-Municipios-Baianos&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 <a href="https://github.com/hugoriosbrito">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugoriosbrito&repo=livraria&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+
+<a href="https://github.com/hugoriosbrito">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugoriosbrito&repo=MLModels&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
