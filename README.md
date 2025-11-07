@@ -31,7 +31,7 @@
 
 ### Core Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,docker,git,gcp,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,docker,git,gcp,mysql,postgresql" />
 </p>
 
 ### Áreas de Interesse
