@@ -60,19 +60,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoriosbrito&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoriosbrito&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugoriosbrito&theme=react&hide_border=true&background=0D1117" alt="hugoriosbrito" />
-</div>
-
----
-
 ## 🎯 Projetos Destacados
 
 <div align="center">
@@ -106,10 +93,6 @@
 ---
 
 <div align="center">
-
-### 💭 Filosofia de Trabalho
-
-*"Código limpo, dados confiáveis, resultados que importam"*
 
 <img src="https://komarev.com/ghpvc/?username=hugoriosbrito&label=Profile%20views&color=0e75b6&style=flat" alt="hugoriosbrito" />
 
