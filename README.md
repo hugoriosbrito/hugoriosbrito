@@ -2,7 +2,7 @@
 
 # Hugo Rios Brito
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Cientista+de+Dados;Estagiário+%7C+Estudante;Machine+Learning+Researcher;Python+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Cientista+de+Dados;%7C+Estudante;Machine+Learning+Researcher;Python+Developer" alt="Typing SVG" />
 
 </div>
 
