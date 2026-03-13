@@ -50,7 +50,7 @@
       <br><strong>System Integration</strong>
     </td>
     <td align="center" width="140">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="Cloud" />
+      <img src="https://svg-viewer.fileformat.info/view.html?url=https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/amazon_aws/index.html&backText=Return+to+VectorLogoZone" width="48" height="48" alt="Cloud" />
       <br><strong>Cloud Computing</strong>
     </td>
   </tr>
